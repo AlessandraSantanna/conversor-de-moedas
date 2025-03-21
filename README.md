@@ -1,19 +1,23 @@
+# Conversor de Moedas
+![Captura de tela 2025-03-21 205455](https://github.com/user-attachments/assets/dc257fcf-bf41-418b-94d5-262ec88c05a2)
 
-- ## Oiii eu sou a Alessandra Santana
-- Trago esse projeto Conversor de Moedas demonstrando o aprendizado  nas linguagens HTML ,CSS e JavaScript.
-- Nele podemos converter  da moeda Real para Dólar,Libra, Europa e Bitcon.
-  
-Contato: 
-- 📫  e-mail:alesy2007@gmail.com
-- linkedin:https://www.linkedin.com/in/devalessandrasantana/
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+Este projeto é um conversor de moedas online que permite aos usuários converter valores entre diferentes moedas usando taxas de câmbio atualizadas.
 
-  
-- ## Minhas Habilidades:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
+## Descrição
+
+O conversor de moedas oferece uma interface simples e intuitiva para realizar conversões rápidas e precisas. Ele utiliza uma API externa para obter as taxas de câmbio mais recentes, garantindo a precisão dos resultados.
+
+## Funcionalidades
+
+* **Conversão de Moedas:** Converta valores entre duas moedas selecionadas.
+* **Interface Limpa:** Design simples e fácil de usar.
+* **JavaScript:** Interatividade e lógica de conversão implementadas em JavaScript.
+* **API Externa:** Utilização de uma API para obter taxas de câmbio atualizadas.
+
+## Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+
